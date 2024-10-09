@@ -7,6 +7,10 @@ Microsoft Hackathon
    
    [Create Account](https://www.microsoft.com/en-us/microsoft-fabric/getting-started)
 
+   [Live Session](https://developer.microsoft.com/en-us/reactor/series/S-1393/)
+
+   
+
 # Microsoft Fabric and AI innovation
 
 1. Sales Prediction with  graph, chart...
