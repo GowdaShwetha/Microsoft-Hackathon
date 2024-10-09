@@ -2,7 +2,8 @@
 Microsoft Hackathon
 
 # MS Challenge
-   [](https://aka.ms/challenge/fabric?wt.mc_id=aisc25_fabrichack_multichannel_azdata_csadai)
+
+   [AI Skills Challenge: Microsoft Fabric](https://aka.ms/challenge/fabric?wt.mc_id=aisc25_fabrichack_multichannel_azdata_csadai)
 
 # Microsoft Fabric and AI innovation
 
