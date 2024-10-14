@@ -11,6 +11,8 @@ Microsoft Hackathon
 
    [Must Complete MS Learning](https://learn.microsoft.com/en-us/training/topics/event-challenges?tabs=azure-ai)
 
+   [Hackathon Examples](https://devpost.com/software/autosight-evckf2)
+
    
 
 # Microsoft Fabric and AI innovation
