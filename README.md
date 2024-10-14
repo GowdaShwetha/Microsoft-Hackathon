@@ -9,6 +9,8 @@ Microsoft Hackathon
 
    [Live Session](https://developer.microsoft.com/en-us/reactor/series/S-1393/)
 
+   [Must Complete MS Learning](https://learn.microsoft.com/en-us/training/topics/event-challenges?tabs=azure-ai)
+
    
 
 # Microsoft Fabric and AI innovation
