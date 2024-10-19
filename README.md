@@ -27,6 +27,8 @@ Microsoft Hackathon
 
    [Fabric notebook](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/10-ingest-notebooks.html)
 
+   [warehouse](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06a-data-warehouse-load.html)
+
    
 
 # Microsoft Fabric and AI innovation
