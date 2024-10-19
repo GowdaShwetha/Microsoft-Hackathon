@@ -15,6 +15,8 @@ Microsoft Hackathon
 
    [Delta Documentation](https://docs.delta.io/latest/index.html)
 
+   [pipeline activities](https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview)
+
    
 
 # Microsoft Fabric and AI innovation
