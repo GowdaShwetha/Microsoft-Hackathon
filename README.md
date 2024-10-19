@@ -23,6 +23,8 @@ Microsoft Hackathon
 
    [data warehouse](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06-data-warehouse.html)
 
+   [Lakehouse](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/03b-medallion-lakehouse.html)
+
    
 
 # Microsoft Fabric and AI innovation
