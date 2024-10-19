@@ -21,6 +21,8 @@ Microsoft Hackathon
 
    [Dataflow D2](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/05-dataflows-gen2.html#create-a-workspace)
 
+   [data warehouse](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06-data-warehouse.html)
+
    
 
 # Microsoft Fabric and AI innovation
