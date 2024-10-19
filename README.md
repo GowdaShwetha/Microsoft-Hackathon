@@ -25,6 +25,8 @@ Microsoft Hackathon
 
    [Lakehouse](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/03b-medallion-lakehouse.html)
 
+   [Fabric notebook](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/10-ingest-notebooks.html)
+
    
 
 # Microsoft Fabric and AI innovation
