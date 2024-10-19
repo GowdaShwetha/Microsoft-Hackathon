@@ -17,6 +17,10 @@ Microsoft Hackathon
 
    [pipeline activities](https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview)
 
+   [pipeline setting](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/04-ingest-pipeline.html)
+
+   [Dataflow D2](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/05-dataflows-gen2.html#create-a-workspace)
+
    
 
 # Microsoft Fabric and AI innovation
