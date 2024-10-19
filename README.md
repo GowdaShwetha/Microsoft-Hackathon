@@ -13,6 +13,8 @@ Microsoft Hackathon
 
    [Hackathon Examples](https://devpost.com/software/autosight-evckf2)
 
+   [Delta Documentation](https://docs.delta.io/latest/index.html)
+
    
 
 # Microsoft Fabric and AI innovation
