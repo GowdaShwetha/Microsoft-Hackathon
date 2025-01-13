@@ -29,7 +29,5 @@ Microsoft Hackathon
 
    [warehouse](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06a-data-warehouse-load.html)
 
-   [poerBI](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/16-use-tools-to-optimize-power-bi-performance.html)
-
-   
+   [powerBI](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/16-use-tools-to-optimize-power-bi-performance.html)
 
